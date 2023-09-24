@@ -1,6 +1,5 @@
 # BloodPressure
-Rstudio
-1- Descriptive statistics
+Descriptive statistics
 After reading the data “RData” file using load (), use str () function to return to return a list of objects and their structure, use summary function () to summarize the data frame all of those are used for:
 • Identifying and exploring the data
 • Knowing more information about columns data types
