@@ -219,8 +219,5 @@ The 0.95 confidence interval of the intercept “bp.reduction” is -1.948188 2.
 
 
 
-
-
-The bonus:
 Using the third linear model which contains regression model between bp.reduction and dose then made a new data frame containing the new dose that we want to predict its bp.reduction value 
 Using predict() function which took two parameters the old model and the new data frame and predicted the value of bp.reduction at 
